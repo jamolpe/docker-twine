@@ -19,5 +19,3 @@ So can be pulled it using
 ```console
 docker pull jamolpedev/twine
 ```
-
-Entry point is and sleep as we want to have this container available to send commands during certain time.

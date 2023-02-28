@@ -8,4 +8,4 @@ RUN pip install --upgrade pip && \
     pip install twine && \
     pip cache purge
 WORKDIR /
-ENTRYPOINT [ "/bin/sleep", "99" ]
+
